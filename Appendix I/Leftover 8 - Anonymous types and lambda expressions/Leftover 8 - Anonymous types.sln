@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leftover 8 - Anonymous types", "Leftover 8 - Anonymous types\Leftover 8 - Anonymous types.csproj", "{14E02EC7-8B4E-4956-8B0C-A51B4B4445BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14E02EC7-8B4E-4956-8B0C-A51B4B4445BA}.Debug|x86.ActiveCfg = Debug|x86
+		{14E02EC7-8B4E-4956-8B0C-A51B4B4445BA}.Debug|x86.Build.0 = Debug|x86
+		{14E02EC7-8B4E-4956-8B0C-A51B4B4445BA}.Release|x86.ActiveCfg = Release|x86
+		{14E02EC7-8B4E-4956-8B0C-A51B4B4445BA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

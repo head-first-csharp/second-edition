@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p604 - BeeControl (UserControl)", "p604 - BeeControl (UserControl)\p604 - BeeControl (UserControl).csproj", "{EAF537B8-231F-4AE4-9832-BC057740972C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF537B8-231F-4AE4-9832-BC057740972C}.Debug|x86.ActiveCfg = Debug|x86
+		{EAF537B8-231F-4AE4-9832-BC057740972C}.Debug|x86.Build.0 = Debug|x86
+		{EAF537B8-231F-4AE4-9832-BC057740972C}.Release|x86.ActiveCfg = Release|x86
+		{EAF537B8-231F-4AE4-9832-BC057740972C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

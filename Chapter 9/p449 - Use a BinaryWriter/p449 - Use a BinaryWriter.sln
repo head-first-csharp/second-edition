@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p449 - Use a BinaryWriter", "p449 - Use a BinaryWriter\p449 - Use a BinaryWriter.csproj", "{FF6722CB-A0C1-4193-9A8C-17D48D1D236B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF6722CB-A0C1-4193-9A8C-17D48D1D236B}.Debug|x86.ActiveCfg = Debug|x86
+		{FF6722CB-A0C1-4193-9A8C-17D48D1D236B}.Debug|x86.Build.0 = Debug|x86
+		{FF6722CB-A0C1-4193-9A8C-17D48D1D236B}.Release|x86.ActiveCfg = Release|x86
+		{FF6722CB-A0C1-4193-9A8C-17D48D1D236B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

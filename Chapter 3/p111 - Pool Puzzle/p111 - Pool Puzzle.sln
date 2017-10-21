@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p111 - Pool Puzzle", "p111 - Pool Puzzle\p111 - Pool Puzzle.csproj", "{157AE21D-6B92-4DE2-9F6A-EA33278EE556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{157AE21D-6B92-4DE2-9F6A-EA33278EE556}.Debug|x86.ActiveCfg = Debug|x86
+		{157AE21D-6B92-4DE2-9F6A-EA33278EE556}.Debug|x86.Build.0 = Debug|x86
+		{157AE21D-6B92-4DE2-9F6A-EA33278EE556}.Release|x86.ActiveCfg = Release|x86
+		{157AE21D-6B92-4DE2-9F6A-EA33278EE556}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

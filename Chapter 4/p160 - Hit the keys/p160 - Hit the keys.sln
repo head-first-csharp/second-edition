@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p160 - Hit the keys", "p160 - Hit the keys\p160 - Hit the keys.csproj", "{1E7B3CD3-79C5-4F7A-9ECB-78FBE3257C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7B3CD3-79C5-4F7A-9ECB-78FBE3257C6A}.Debug|x86.ActiveCfg = Debug|x86
+		{1E7B3CD3-79C5-4F7A-9ECB-78FBE3257C6A}.Debug|x86.Build.0 = Debug|x86
+		{1E7B3CD3-79C5-4F7A-9ECB-78FBE3257C6A}.Release|x86.ActiveCfg = Release|x86
+		{1E7B3CD3-79C5-4F7A-9ECB-78FBE3257C6A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
